@@ -15,7 +15,7 @@ After that, you can individually choose which jingle you want per game.
 If you would like to contribute to the cocoon community jingles pack you can either make a pull request via github or share your own repositories or files in our thread in the Coccoon discord server #asset-repo. 
 *Please format your files with the following naming convention:* <sub>[game name] (creators name)</sub>
 
-# My jingles were provided without consent
+# My jingles were provided without consent can you help?
 If you believe someone has stolen your jingles and uploaded them to this repository, please contact us - letting us know which jingle is stolen, sharing your original jingle.
 
 # Contributors
