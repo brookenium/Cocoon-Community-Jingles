@@ -49,7 +49,7 @@ for platform in sorted(os.listdir(ROOT_DIR)):
         display_name = re.sub(r"\s*\([^)]*\)\s*$", "", display_name)
 
         entries.append({
-            "name": display_name,
+            "game": display_name,
             "file": f"jingles/{platform}/{file}",
             "regex": make_regex(display_name)
         })
