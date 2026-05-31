@@ -51,7 +51,7 @@ for platform in sorted(os.listdir(ROOT_DIR)):
         entries.append({
             "game": display_name,
             "file": f"jingles/{platform}/{file}",
-            "regex": make_regex(display_name)
+            #"regex": make_regex(display_name)
         })
 
     data[platform] = entries
