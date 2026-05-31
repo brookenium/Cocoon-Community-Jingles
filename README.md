@@ -19,8 +19,8 @@ If you would like to contribute to the cocoon community jingles pack you can eit
 If you believe someone has stolen your jingles and uploaded them to this repository, please contact us - letting us know which jingle is stolen, sharing your original jingle.
 
 # Contributors
-Flapperultra
-CirnoWaifu
-RetroWave64
-Gracie Failfox
-Subspex
+- Flapperultra
+- CirnoWaifu
+- RetroWave64
+- Gracie Failfox
+- Subspex
