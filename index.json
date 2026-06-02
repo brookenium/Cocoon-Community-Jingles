@@ -8835,7 +8835,7 @@
         {
             "game": "One Piece - Unlimited Adventure",
             "file": "jingles/wii/One Piece Unlimited Adventure (somecallmesean).ogg",
-            "regex": "^one[^a-z0-9]*piece[^a-z0-9]*unlimited[^a-z0-9]*adventures$|^onepieceunlimitedadventure$"
+            "regex": "^one[^a-z0-9]*piece[^a-z0-9]*unlimited[^a-z0-9]*adventure$|^onepieceunlimitedadventure$"
         },
         {
             "game": "Resident Evil - The Darkside Chronicles",
