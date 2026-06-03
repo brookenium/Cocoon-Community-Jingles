@@ -6792,7 +6792,7 @@
            {
             "game": "Parappa the Rapper (PSP)",
             "file": "jingles/psp/Parappa the Rapper (PSP) (somecallmesean).ogg",
-            "regex": "^parappa[^a-z0-9]*the[^a-z0-9]*rapper[^a-z0-9]*psp$|^patapon$"
+            "regex": "^parappa[^a-z0-9]*the[^a-z0-9]*rapper[^a-z0-9]*psp$|^parappatherapperpsp$"
         },
         {
             "game": "Patapon",
