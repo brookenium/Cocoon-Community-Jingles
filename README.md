@@ -26,5 +26,11 @@ If you believe someone has stolen your jingles and uploaded them to this reposit
 - Subspex
 - Felipne87r
 - BeaniesEXe
-- Eats_Dirt
+- EatsDirt
 - EvilMain
+- BennyTheFirstHunter
+- Techv01
+- Just Josh
+- Jalmoc
+- missing
+- Fynaleth
