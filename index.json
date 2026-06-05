@@ -709,6 +709,11 @@
             "regex": "^resident[^a-z0-9]*evil[^a-z0-9]*the[^a-z0-9]*mercenaries[^a-z0-9]*3d$|^residentevilthemercenaries3d$"
         },
         {
+            "game": "Rhythm Thief",
+            "file": "jingles/3ds/Natalie/Rhythm Thief (Natalie).ogg",
+            "regex": "^rhythm[^a-z0-9]*thief$|^rhythmthief$"
+        },
+        {
             "game": "Scribblenauts Unlimited",
             "file": "jingles/3ds/EatsDirt/Scribblenauts Unlimited (EatsDirt).ogg",
             "regex": "^scribblenauts[^a-z0-9]*unlimited$|^scribblenautsunlimited$"
@@ -1186,6 +1191,18 @@
             "game": "Simpsons Arcade",
             "file": "jingles/arcade/BennyTheFirstHunter/Simpsons Arcade (BennyTheFirstHunter).ogg",
             "regex": "^simpsons[^a-z0-9]*arcade$|^simpsonsarcade$"
+        },
+        {
+            "game": "Tetris The Grand Master 4",
+            "file": "jingles/arcade/Natalie/Tetris The Grand Master 4 (Natalie).ogg",
+            "regex": "^tetris[^a-z0-9]*the[^a-z0-9]*grand[^a-z0-9]*master[^a-z0-9]*4$|^tetristhegrandmaster4$"
+        }
+    ],
+    "cdi": [
+        {
+            "game": "Tetris",
+            "file": "jingles/cdi/Natalie/Tetris (Natalie).ogg",
+            "regex": "^tetris$|^tetris$"
         }
     ],
     "dreamcast": [
@@ -1241,6 +1258,11 @@
         },
         {
             "game": "Sonic Adventure",
+            "file": "jingles/dreamcast/Natalie/Sonic Adventure (Natalie).ogg",
+            "regex": "^sonic[^a-z0-9]*adventure$|^sonicadventure$"
+        },
+        {
+            "game": "Sonic Adventure",
             "file": "jingles/dreamcast/RetroWave64/Sonic Adventure (RetroWave64).ogg",
             "regex": "^sonic[^a-z0-9]*adventure$|^sonicadventure$"
         },
@@ -1252,6 +1274,11 @@
         {
             "game": "Sonic Adventure 2",
             "file": "jingles/dreamcast/Gracie Failfox/Sonic Adventure 2 (Gracie Failfox).ogg",
+            "regex": "^sonic[^a-z0-9]*adventure[^a-z0-9]*2$|^sonicadventure2$"
+        },
+        {
+            "game": "Sonic Adventure 2",
+            "file": "jingles/dreamcast/Natalie/Sonic Adventure 2 (Natalie).ogg",
             "regex": "^sonic[^a-z0-9]*adventure[^a-z0-9]*2$|^sonicadventure2$"
         },
         {
@@ -1294,6 +1321,11 @@
         {
             "game": "Animal Crossing",
             "file": "jingles/gamecube/flapperultra/Animal Crossing  (flapperultra).ogg",
+            "regex": "^animal[^a-z0-9]*crossing$|^animalcrossing$"
+        },
+        {
+            "game": "Animal Crossing",
+            "file": "jingles/gamecube/Natalie/Animal Crossing (Natalie).ogg",
             "regex": "^animal[^a-z0-9]*crossing$|^animalcrossing$"
         },
         {
@@ -1402,6 +1434,11 @@
             "regex": "^luigis[^a-z0-9]*mansion$|^luigismansion$"
         },
         {
+            "game": "Mario Kart - Double Dash",
+            "file": "jingles/gamecube/Natalie/Mario Kart - Double Dash (Natalie).ogg",
+            "regex": "^mario[^a-z0-9]*kart[^a-z0-9]*double[^a-z0-9]*dash$|^mariokartdoubledash$"
+        },
+        {
             "game": "Mario Kart Double Dash",
             "file": "jingles/gamecube/flapperultra/Mario Kart Double Dash (flapperultra).ogg",
             "regex": "^mario[^a-z0-9]*kart[^a-z0-9]*double[^a-z0-9]*dash$|^mariokartdoubledash$"
@@ -1419,6 +1456,11 @@
         {
             "game": "Metroid Prime 2",
             "file": "jingles/gamecube/flapperultra/Metroid Prime 2 (flapperultra).ogg",
+            "regex": "^metroid[^a-z0-9]*prime[^a-z0-9]*2$|^metroidprime2$"
+        },
+        {
+            "game": "Metroid Prime 2",
+            "file": "jingles/gamecube/Natalie/Metroid Prime 2 (Natalie).ogg",
             "regex": "^metroid[^a-z0-9]*prime[^a-z0-9]*2$|^metroidprime2$"
         },
         {
@@ -1834,6 +1876,11 @@
             "regex": "^kirbys[^a-z0-9]*pinball[^a-z0-9]*land$|^kirbyspinballland$"
         },
         {
+            "game": "Mario Picross",
+            "file": "jingles/gb/Natalie/Mario Picross (Natalie).ogg",
+            "regex": "^mario[^a-z0-9]*picross$|^mariopicross$"
+        },
+        {
             "game": "Mega Man World",
             "file": "jingles/gb/flapperultra/Mega Man World (flapperultra).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*world$|^megamanworld$"
@@ -1857,6 +1904,11 @@
             "game": "Mega Man World 5",
             "file": "jingles/gb/flapperultra/Mega Man World 5 (flapperultra).ogg",
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*world[^a-z0-9]*5$|^megamanworld5$"
+        },
+        {
+            "game": "Metroid 2",
+            "file": "jingles/gb/Natalie/Metroid 2 (Natalie).ogg",
+            "regex": "^metroid[^a-z0-9]*2$|^metroid2$"
         },
         {
             "game": "Metroid II",
@@ -1931,6 +1983,11 @@
         {
             "game": "Tetris",
             "file": "jingles/gb/flapperultra/Tetris (flapperultra).ogg",
+            "regex": "^tetris$|^tetris$"
+        },
+        {
+            "game": "Tetris",
+            "file": "jingles/gb/Natalie/Tetris (Natalie).ogg",
             "regex": "^tetris$|^tetris$"
         },
         {
@@ -2266,6 +2323,11 @@
             "regex": "^mario[^a-z0-9]*golf[^a-z0-9]*advance[^a-z0-9]*tour$|^mariogolfadvancetour$"
         },
         {
+            "game": "Mario Kart Super Circuit",
+            "file": "jingles/gba/Natalie/Mario Kart Super Circuit (Natalie).ogg",
+            "regex": "^mario[^a-z0-9]*kart[^a-z0-9]*super[^a-z0-9]*circuit$|^mariokartsupercircuit$"
+        },
+        {
             "game": "Mario Tennis - Power Tour",
             "file": "jingles/gba/BennyTheFirstHunter/Mario Tennis - Power Tour (BennyTheFirstHunter).ogg",
             "regex": "^mario[^a-z0-9]*tennis[^a-z0-9]*power[^a-z0-9]*tour$|^mariotennispowertour$"
@@ -2436,6 +2498,11 @@
             "regex": "^metroid[^a-z0-9]*fusion$|^metroidfusion$"
         },
         {
+            "game": "Metroid Fusion",
+            "file": "jingles/gba/Natalie/Metroid Fusion (Natalie).ogg",
+            "regex": "^metroid[^a-z0-9]*fusion$|^metroidfusion$"
+        },
+        {
             "game": "Metroid Zero Mission",
             "file": "jingles/gba/CirnoWaifu/Metroid Zero Mission (CirnoWaifu).ogg",
             "regex": "^metroid[^a-z0-9]*zero[^a-z0-9]*mission$|^metroidzeromission$"
@@ -2443,6 +2510,11 @@
         {
             "game": "Metroid Zero Mission",
             "file": "jingles/gba/flapperultra/Metroid Zero Mission (flapperultra).ogg",
+            "regex": "^metroid[^a-z0-9]*zero[^a-z0-9]*mission$|^metroidzeromission$"
+        },
+        {
+            "game": "Metroid Zero Mission",
+            "file": "jingles/gba/Natalie/Metroid Zero Mission (Natalie).ogg",
             "regex": "^metroid[^a-z0-9]*zero[^a-z0-9]*mission$|^metroidzeromission$"
         },
         {
@@ -2908,6 +2980,11 @@
             "regex": "^pokemon[^a-z0-9]*97[^a-z0-9]*reforged$|^pokemon97reforged$"
         },
         {
+            "game": "Pokemon Card GB2",
+            "file": "jingles/gbc/Natalie/Pokemon Card GB2 (Natalie).ogg",
+            "regex": "^pokemon[^a-z0-9]*card[^a-z0-9]*gb2$|^pokemoncardgb2$"
+        },
+        {
             "game": "Pokemon Crystal",
             "file": "jingles/gbc/CirnoWaifu/Pokemon Crystal (CirnoWaifu).ogg",
             "regex": "^pokemon[^a-z0-9]*crystal$|^pokemoncrystal$"
@@ -2956,6 +3033,11 @@
             "game": "Pokemon TCG 2",
             "file": "jingles/gbc/flapperultra/Pokemon TCG 2 (flapperultra).ogg",
             "regex": "^pokemon[^a-z0-9]*tcg[^a-z0-9]*2$|^pokemontcg2$"
+        },
+        {
+            "game": "Pokemon TCG GB",
+            "file": "jingles/gbc/Natalie/Pokemon TCG GB (Natalie).ogg",
+            "regex": "^pokemon[^a-z0-9]*tcg[^a-z0-9]*gb$|^pokemontcggb$"
         },
         {
             "game": "Pokemon Trading Card Game",
@@ -4144,6 +4226,11 @@
             "regex": "^kirby[^a-z0-9]*64[^a-z0-9]*the[^a-z0-9]*crystal[^a-z0-9]*shards$|^kirby64thecrystalshards$"
         },
         {
+            "game": "Mario Kart 64",
+            "file": "jingles/n64/Natalie/Mario Kart 64 (Natalie).ogg",
+            "regex": "^mario[^a-z0-9]*kart[^a-z0-9]*64$|^mariokart64$"
+        },
+        {
             "game": "MarioGolf",
             "file": "jingles/n64/BennyTheFirstHunter/MarioGolf (BennyTheFirstHunter).ogg",
             "regex": "^mariogolf$|^mariogolf$"
@@ -4428,6 +4515,11 @@
         {
             "game": "Animal Crossing Wild World",
             "file": "jingles/nds/flapperultra/Animal Crossing Wild World (flapperultra).ogg",
+            "regex": "^animal[^a-z0-9]*crossing[^a-z0-9]*wild[^a-z0-9]*world$|^animalcrossingwildworld$"
+        },
+        {
+            "game": "Animal Crossing Wild World",
+            "file": "jingles/nds/Natalie/Animal Crossing Wild World (Natalie).ogg",
             "regex": "^animal[^a-z0-9]*crossing[^a-z0-9]*wild[^a-z0-9]*world$|^animalcrossingwildworld$"
         },
         {
@@ -4751,6 +4843,11 @@
             "regex": "^mario[^a-z0-9]*kart[^a-z0-9]*ds$|^mariokartds$"
         },
         {
+            "game": "Mario Kart DS",
+            "file": "jingles/nds/Natalie/Mario Kart DS (Natalie).ogg",
+            "regex": "^mario[^a-z0-9]*kart[^a-z0-9]*ds$|^mariokartds$"
+        },
+        {
             "game": "Mario vs Donkey Kong 2 - March of the Minis",
             "file": "jingles/nds/flapperultra/Mario vs Donkey Kong 2 - March of the Minis (flapperultra).ogg",
             "regex": "^mario[^a-z0-9]*vs[^a-z0-9]*donkey[^a-z0-9]*kong[^a-z0-9]*2[^a-z0-9]*march[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*minis$|^mariovsdonkeykong2marchoftheminis$"
@@ -4824,6 +4921,16 @@
             "game": "Meteos",
             "file": "jingles/nds/flapperultra/Meteos (flapperultra).ogg",
             "regex": "^meteos$|^meteos$"
+        },
+        {
+            "game": "Metroid Prime Hunters",
+            "file": "jingles/nds/Natalie/Metroid Prime Hunters (Natalie).ogg",
+            "regex": "^metroid[^a-z0-9]*prime[^a-z0-9]*hunters$|^metroidprimehunters$"
+        },
+        {
+            "game": "Metroid Prime Pinball",
+            "file": "jingles/nds/Natalie/Metroid Prime Pinball (Natalie).ogg",
+            "regex": "^metroid[^a-z0-9]*prime[^a-z0-9]*pinball$|^metroidprimepinball$"
         },
         {
             "game": "My Sims Kingdom",
@@ -5088,6 +5195,11 @@
         {
             "game": "Tetris DS",
             "file": "jingles/nds/flapperultra/Tetris DS (flapperultra).ogg",
+            "regex": "^tetris[^a-z0-9]*ds$|^tetrisds$"
+        },
+        {
+            "game": "Tetris DS",
+            "file": "jingles/nds/Natalie/Tetris DS (Natalie).ogg",
             "regex": "^tetris[^a-z0-9]*ds$|^tetrisds$"
         },
         {
@@ -5923,6 +6035,11 @@
         },
         {
             "game": "Metroid",
+            "file": "jingles/nes/Natalie/Metroid (Natalie).ogg",
+            "regex": "^metroid$|^metroid$"
+        },
+        {
+            "game": "Metroid",
             "file": "jingles/nes/RetroWave64/Metroid (RetroWave64).ogg",
             "regex": "^metroid$|^metroid$"
         },
@@ -6219,6 +6336,16 @@
             "regex": "^100[^a-z0-9]*orange[^a-z0-9]*juice$|^100orangejuice$"
         },
         {
+            "game": "1000xRESIST",
+            "file": "jingles/pc steam & multiplat/Natalie/1000xRESIST (Natalie).ogg",
+            "regex": "^1000xresist$|^1000xresist$"
+        },
+        {
+            "game": "2ship2harkinian",
+            "file": "jingles/pc steam & multiplat/Natalie/2ship2harkinian (Natalie).ogg",
+            "regex": "^2ship2harkinian$|^2ship2harkinian$"
+        },
+        {
             "game": "A Short Hike",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/A Short Hike (BennyTheFirstHunter).ogg",
             "regex": "^a[^a-z0-9]*short[^a-z0-9]*hike$|^ashorthike$"
@@ -6232,6 +6359,16 @@
             "game": "Ace Attorrney Trilogy",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/Ace Attorrney Trilogy (BennyTheFirstHunter).ogg",
             "regex": "^ace[^a-z0-9]*attorrney[^a-z0-9]*trilogy$|^aceattorrneytrilogy$"
+        },
+        {
+            "game": "Among Us (Drip Remix)",
+            "file": "jingles/pc steam & multiplat/Natalie/Among Us (Drip Remix) (Natalie).ogg",
+            "regex": "^among[^a-z0-9]*us[^a-z0-9]*drip[^a-z0-9]*remix$|^amongusdripremix$"
+        },
+        {
+            "game": "Among Us (Standard)",
+            "file": "jingles/pc steam & multiplat/Natalie/Among Us (Standard) (Natalie).ogg",
+            "regex": "^among[^a-z0-9]*us[^a-z0-9]*standard$|^amongusstandard$"
         },
         {
             "game": "animal well",
@@ -6289,6 +6426,11 @@
             "regex": "^atomic[^a-z0-9]*exile$|^atomicexile$"
         },
         {
+            "game": "Balatro",
+            "file": "jingles/pc steam & multiplat/Natalie/Balatro (Natalie).ogg",
+            "regex": "^balatro$|^balatro$"
+        },
+        {
             "game": "Baroque",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Baroque (CirnoWaifu).ogg",
             "regex": "^baroque$|^baroque$"
@@ -6312,6 +6454,21 @@
             "game": "Battle Chess",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/Battle Chess (BennyTheFirstHunter).ogg",
             "regex": "^battle[^a-z0-9]*chess$|^battlechess$"
+        },
+        {
+            "game": "Bioshock",
+            "file": "jingles/pc steam & multiplat/CirnoWaifu/Bioshock (CirnoWaifu).ogg",
+            "regex": "^bioshock$|^bioshock$"
+        },
+        {
+            "game": "Bioshock 2",
+            "file": "jingles/pc steam & multiplat/CirnoWaifu/Bioshock 2 (CirnoWaifu).ogg",
+            "regex": "^bioshock[^a-z0-9]*2$|^bioshock2$"
+        },
+        {
+            "game": "Bioshock Infinite",
+            "file": "jingles/pc steam & multiplat/CirnoWaifu/Bioshock Infinite (CirnoWaifu).ogg",
+            "regex": "^bioshock[^a-z0-9]*infinite$|^bioshockinfinite$"
         },
         {
             "game": "Black (2006)",
@@ -6344,6 +6501,16 @@
             "regex": "^blue[^a-z0-9]*prince$|^blueprince$"
         },
         {
+            "game": "Blunderworld",
+            "file": "jingles/pc steam & multiplat/Natalie/Blunderworld (Natalie).ogg",
+            "regex": "^blunderworld$|^blunderworld$"
+        },
+        {
+            "game": "Bomb Rush Cyberfunk",
+            "file": "jingles/pc steam & multiplat/Natalie/Bomb Rush Cyberfunk (Natalie).ogg",
+            "regex": "^bomb[^a-z0-9]*rush[^a-z0-9]*cyberfunk$|^bombrushcyberfunk$"
+        },
+        {
             "game": "Broke Sword Shadow of the Templars Reforged",
             "file": "jingles/pc steam & multiplat/EvilMain/Broke Sword Shadow of the Templars Reforged (EvilMain).ogg",
             "regex": "^broke[^a-z0-9]*sword[^a-z0-9]*shadow[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*templars[^a-z0-9]*reforged$|^brokeswordshadowofthetemplarsreforged$"
@@ -6359,6 +6526,11 @@
             "regex": "^cave[^a-z0-9]*story$|^cavestory$"
         },
         {
+            "game": "Caves of Qud",
+            "file": "jingles/pc steam & multiplat/Natalie/Caves of Qud (Natalie).ogg",
+            "regex": "^caves[^a-z0-9]*of[^a-z0-9]*qud$|^cavesofqud$"
+        },
+        {
             "game": "Celeste",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/Celeste (BennyTheFirstHunter).ogg",
             "regex": "^celeste$|^celeste$"
@@ -6372,6 +6544,11 @@
             "game": "Chrono Gear - Warden of Time",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Chrono Gear - Warden of Time (CirnoWaifu).ogg",
             "regex": "^chrono[^a-z0-9]*gear[^a-z0-9]*warden[^a-z0-9]*of[^a-z0-9]*time$|^chronogearwardenoftime$"
+        },
+        {
+            "game": "Cloverpit",
+            "file": "jingles/pc steam & multiplat/Natalie/Cloverpit (Natalie).ogg",
+            "regex": "^cloverpit$|^cloverpit$"
         },
         {
             "game": "Cold Fear",
@@ -6417,6 +6594,11 @@
             "game": "Cyberpunk 2077",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Cyberpunk 2077 (CirnoWaifu).ogg",
             "regex": "^cyberpunk[^a-z0-9]*2077$|^cyberpunk2077$"
+        },
+        {
+            "game": "Dark Souls",
+            "file": "jingles/pc steam & multiplat/Natalie/Dark Souls (Natalie).ogg",
+            "regex": "^dark[^a-z0-9]*souls$|^darksouls$"
         },
         {
             "game": "darkest dungeon 2",
@@ -6482,6 +6664,11 @@
             "game": "Digimon World ReDigitize",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Digimon World ReDigitize (CirnoWaifu).ogg",
             "regex": "^digimon[^a-z0-9]*world[^a-z0-9]*redigitize$|^digimonworldredigitize$"
+        },
+        {
+            "game": "Disco Elysium",
+            "file": "jingles/pc steam & multiplat/Natalie/Disco Elysium (Natalie).ogg",
+            "regex": "^disco[^a-z0-9]*elysium$|^discoelysium$"
         },
         {
             "game": "Disgaea 4 - A Promise Unforgotten",
@@ -6554,6 +6741,11 @@
             "regex": "^doom[^a-z0-9]*3$|^doom3$"
         },
         {
+            "game": "Dragon Age Origins",
+            "file": "jingles/pc steam & multiplat/Natalie/Dragon Age Origins (Natalie).ogg",
+            "regex": "^dragon[^a-z0-9]*age[^a-z0-9]*origins$|^dragonageorigins$"
+        },
+        {
             "game": "Dream Tactics",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Dream Tactics (CirnoWaifu).ogg",
             "regex": "^dream[^a-z0-9]*tactics$|^dreamtactics$"
@@ -6609,8 +6801,23 @@
             "regex": "^fallout[^a-z0-9]*3$|^fallout3$"
         },
         {
+            "game": "Fallout 3",
+            "file": "jingles/pc steam & multiplat/Natalie/Fallout 3 (Natalie).ogg",
+            "regex": "^fallout[^a-z0-9]*3$|^fallout3$"
+        },
+        {
+            "game": "Fallout 4",
+            "file": "jingles/pc steam & multiplat/Natalie/Fallout 4 (Natalie).ogg",
+            "regex": "^fallout[^a-z0-9]*4$|^fallout4$"
+        },
+        {
             "game": "Fallout New Vegas",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Fallout New Vegas (CirnoWaifu).ogg",
+            "regex": "^fallout[^a-z0-9]*new[^a-z0-9]*vegas$|^falloutnewvegas$"
+        },
+        {
+            "game": "Fallout New Vegas",
+            "file": "jingles/pc steam & multiplat/Natalie/Fallout New Vegas (Natalie).ogg",
             "regex": "^fallout[^a-z0-9]*new[^a-z0-9]*vegas$|^falloutnewvegas$"
         },
         {
@@ -6639,9 +6846,64 @@
             "regex": "^final[^a-z0-9]*doom$|^finaldoom$"
         },
         {
+            "game": "Final Fantasy I",
+            "file": "jingles/pc steam & multiplat/Natalie/Final Fantasy I (Natalie).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*i$|^finalfantasyi$"
+        },
+        {
+            "game": "Final Fantasy II",
+            "file": "jingles/pc steam & multiplat/Natalie/Final Fantasy II (Natalie).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*ii$|^finalfantasyii$"
+        },
+        {
+            "game": "Final Fantasy III",
+            "file": "jingles/pc steam & multiplat/Natalie/Final Fantasy III (Natalie).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*iii$|^finalfantasyiii$"
+        },
+        {
+            "game": "Final Fantasy IV",
+            "file": "jingles/pc steam & multiplat/Natalie/Final Fantasy IV (Natalie).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*iv$|^finalfantasyiv$"
+        },
+        {
             "game": "Final Fantasy Type-0",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Final Fantasy Type-0 (CirnoWaifu).ogg",
             "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*type[^a-z0-9]*0$|^finalfantasytype0$"
+        },
+        {
+            "game": "Final Fantasy V",
+            "file": "jingles/pc steam & multiplat/Natalie/Final Fantasy V (Natalie).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*v$|^finalfantasyv$"
+        },
+        {
+            "game": "Final Fantasy VI",
+            "file": "jingles/pc steam & multiplat/Natalie/Final Fantasy VI (Natalie).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*vi$|^finalfantasyvi$"
+        },
+        {
+            "game": "Final Fantasy XIII",
+            "file": "jingles/pc steam & multiplat/Natalie/Final Fantasy XIII (Natalie).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*xiii$|^finalfantasyxiii$"
+        },
+        {
+            "game": "Final Fantasy XIV",
+            "file": "jingles/pc steam & multiplat/Natalie/Final Fantasy XIV (Natalie).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*xiv$|^finalfantasyxiv$"
+        },
+        {
+            "game": "Final Fantasy XV",
+            "file": "jingles/pc steam & multiplat/Natalie/Final Fantasy XV (Natalie).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*xv$|^finalfantasyxv$"
+        },
+        {
+            "game": "Final Fantasy XVI",
+            "file": "jingles/pc steam & multiplat/Natalie/Final Fantasy XVI (Natalie).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*xvi$|^finalfantasyxvi$"
+        },
+        {
+            "game": "Final Fantasy XVI (Alt)",
+            "file": "jingles/pc steam & multiplat/Natalie/Final Fantasy XVI (Alt) (Natalie).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*xvi[^a-z0-9]*alt$|^finalfantasyxvialt$"
         },
         {
             "game": "FLARE NUINUI QUEST",
@@ -6694,6 +6956,11 @@
             "regex": "^ghost[^a-z0-9]*trick[^a-z0-9]*phantom[^a-z0-9]*detective$|^ghosttrickphantomdetective$"
         },
         {
+            "game": "Gnosia",
+            "file": "jingles/pc steam & multiplat/Natalie/Gnosia (Natalie).ogg",
+            "regex": "^gnosia$|^gnosia$"
+        },
+        {
             "game": "Golden Warden",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Golden Warden (CirnoWaifu).ogg",
             "regex": "^golden[^a-z0-9]*warden$|^goldenwarden$"
@@ -6717,6 +6984,11 @@
             "game": "Gurumin - A Monstrous Adventure",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Gurumin - A Monstrous Adventure (CirnoWaifu).ogg",
             "regex": "^gurumin[^a-z0-9]*a[^a-z0-9]*monstrous[^a-z0-9]*adventure$|^guruminamonstrousadventure$"
+        },
+        {
+            "game": "Hearthstone",
+            "file": "jingles/pc steam & multiplat/Natalie/Hearthstone (Natalie).ogg",
+            "regex": "^hearthstone$|^hearthstone$"
         },
         {
             "game": "High on Life",
@@ -6762,6 +7034,11 @@
             "game": "Hitman 3",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Hitman 3 (CirnoWaifu).ogg",
             "regex": "^hitman[^a-z0-9]*3$|^hitman3$"
+        },
+        {
+            "game": "Hollow Knight",
+            "file": "jingles/pc steam & multiplat/Natalie/Hollow Knight (Natalie).ogg",
+            "regex": "^hollow[^a-z0-9]*knight$|^hollowknight$"
         },
         {
             "game": "Holo vs Robo",
@@ -6904,6 +7181,11 @@
             "regex": "^makai[^a-z0-9]*kingdom$|^makaikingdom$"
         },
         {
+            "game": "Mario 64 (pc-port)",
+            "file": "jingles/pc steam & multiplat/Natalie/Mario 64 (pc-port) (Natalie).ogg",
+            "regex": "^mario[^a-z0-9]*64[^a-z0-9]*pc[^a-z0-9]*port$|^mario64pcport$"
+        },
+        {
             "game": "Mary Skelter - Nightmares",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Mary Skelter - Nightmares (CirnoWaifu).ogg",
             "regex": "^mary[^a-z0-9]*skelter[^a-z0-9]*nightmares$|^maryskelternightmares$"
@@ -6964,6 +7246,11 @@
             "regex": "^mewgenics$|^mewgenics$"
         },
         {
+            "game": "Mewgenics",
+            "file": "jingles/pc steam & multiplat/Natalie/Mewgenics (Natalie).ogg",
+            "regex": "^mewgenics$|^mewgenics$"
+        },
+        {
             "game": "Midnight Club 2",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/Midnight Club 2 (BennyTheFirstHunter).ogg",
             "regex": "^midnight[^a-z0-9]*club[^a-z0-9]*2$|^midnightclub2$"
@@ -6981,6 +7268,11 @@
         {
             "game": "Mina the Hollower",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/Mina the Hollower (BennyTheFirstHunter).ogg",
+            "regex": "^mina[^a-z0-9]*the[^a-z0-9]*hollower$|^minathehollower$"
+        },
+        {
+            "game": "Mina the Hollower",
+            "file": "jingles/pc steam & multiplat/CirnoWaifu/Mina the Hollower (CirnoWaifu).ogg",
             "regex": "^mina[^a-z0-9]*the[^a-z0-9]*hollower$|^minathehollower$"
         },
         {
@@ -7024,6 +7316,11 @@
             "regex": "^necroking$|^necroking$"
         },
         {
+            "game": "Neir Automata",
+            "file": "jingles/pc steam & multiplat/Natalie/Neir Automata (Natalie).ogg",
+            "regex": "^neir[^a-z0-9]*automata$|^neirautomata$"
+        },
+        {
             "game": "Neon White",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Neon White (CirnoWaifu).ogg",
             "regex": "^neon[^a-z0-9]*white$|^neonwhite$"
@@ -7032,6 +7329,11 @@
             "game": "Nine Sols",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/Nine Sols (BennyTheFirstHunter).ogg",
             "regex": "^nine[^a-z0-9]*sols$|^ninesols$"
+        },
+        {
+            "game": "Nubby's Number Factory",
+            "file": "jingles/pc steam & multiplat/Natalie/Nubby's Number Factory (Natalie).ogg",
+            "regex": "^nubby[^a-z0-9]*s[^a-z0-9]*number[^a-z0-9]*factory$|^nubbysnumberfactory$"
         },
         {
             "game": "ObsCure",
@@ -7054,6 +7356,11 @@
             "regex": "^obscure[^a-z0-9]*the[^a-z0-9]*aftermath$|^obscuretheaftermath$"
         },
         {
+            "game": "Of The Devil",
+            "file": "jingles/pc steam & multiplat/Natalie/Of The Devil (Natalie).ogg",
+            "regex": "^of[^a-z0-9]*the[^a-z0-9]*devil$|^ofthedevil$"
+        },
+        {
             "game": "Oregon Trail",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/Oregon Trail (BennyTheFirstHunter).ogg",
             "regex": "^oregon[^a-z0-9]*trail$|^oregontrail$"
@@ -7067,6 +7374,11 @@
             "game": "Pac-Man Championship Edition",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Pac-Man Championship Edition (CirnoWaifu).ogg",
             "regex": "^pac[^a-z0-9]*man[^a-z0-9]*championship[^a-z0-9]*edition$|^pacmanchampionshipedition$"
+        },
+        {
+            "game": "Payday 2",
+            "file": "jingles/pc steam & multiplat/CirnoWaifu/Payday 2 (CirnoWaifu).ogg",
+            "regex": "^payday[^a-z0-9]*2$|^payday2$"
         },
         {
             "game": "Peglin",
@@ -7112,6 +7424,11 @@
             "game": "Persona 4 Golden",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Persona 4 Golden (CirnoWaifu).ogg",
             "regex": "^persona[^a-z0-9]*4[^a-z0-9]*golden$|^persona4golden$"
+        },
+        {
+            "game": "Persona 5",
+            "file": "jingles/pc steam & multiplat/Natalie/Persona 5 (Natalie).ogg",
+            "regex": "^persona[^a-z0-9]*5$|^persona5$"
         },
         {
             "game": "Persona 5 (dancing)",
@@ -7184,6 +7501,21 @@
             "regex": "^pragmata$|^pragmata$"
         },
         {
+            "game": "Prince of Persia The Sands of Time",
+            "file": "jingles/pc steam & multiplat/Natalie/Prince of Persia The Sands of Time (Natalie).ogg",
+            "regex": "^prince[^a-z0-9]*of[^a-z0-9]*persia[^a-z0-9]*the[^a-z0-9]*sands[^a-z0-9]*of[^a-z0-9]*time$|^princeofpersiathesandsoftime$"
+        },
+        {
+            "game": "Prince of Persia The Two Thrones",
+            "file": "jingles/pc steam & multiplat/Natalie/Prince of Persia The Two Thrones (Natalie).ogg",
+            "regex": "^prince[^a-z0-9]*of[^a-z0-9]*persia[^a-z0-9]*the[^a-z0-9]*two[^a-z0-9]*thrones$|^princeofpersiathetwothrones$"
+        },
+        {
+            "game": "Prince of Persia Warrior Within",
+            "file": "jingles/pc steam & multiplat/Natalie/Prince of Persia Warrior Within (Natalie).ogg",
+            "regex": "^prince[^a-z0-9]*of[^a-z0-9]*persia[^a-z0-9]*warrior[^a-z0-9]*within$|^princeofpersiawarriorwithin$"
+        },
+        {
             "game": "Prinny 2 - Dawn of Operation Panties, Dood",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Prinny 2 - Dawn of Operation Panties, Dood (CirnoWaifu).ogg",
             "regex": "^prinny[^a-z0-9]*2[^a-z0-9]*dawn[^a-z0-9]*of[^a-z0-9]*operation[^a-z0-9]*panties[^a-z0-9]*dood$|^prinny2dawnofoperationpantiesdood$"
@@ -7212,6 +7544,11 @@
             "game": "Rain World",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Rain World (CirnoWaifu).ogg",
             "regex": "^rain[^a-z0-9]*world$|^rainworld$"
+        },
+        {
+            "game": "Ratatan",
+            "file": "jingles/pc steam & multiplat/Natalie/Ratatan (Natalie).ogg",
+            "regex": "^ratatan$|^ratatan$"
         },
         {
             "game": "Rayman Legends",
@@ -7304,9 +7641,19 @@
             "regex": "^rite$|^rite$"
         },
         {
+            "game": "Rivals of Aether",
+            "file": "jingles/pc steam & multiplat/Natalie/Rivals of Aether (Natalie).ogg",
+            "regex": "^rivals[^a-z0-9]*of[^a-z0-9]*aether$|^rivalsofaether$"
+        },
+        {
             "game": "Rogue Legacy",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Rogue Legacy (CirnoWaifu).ogg",
             "regex": "^rogue[^a-z0-9]*legacy$|^roguelegacy$"
+        },
+        {
+            "game": "Scarlet Hollow",
+            "file": "jingles/pc steam & multiplat/Natalie/Scarlet Hollow (Natalie).ogg",
+            "regex": "^scarlet[^a-z0-9]*hollow$|^scarlethollow$"
         },
         {
             "game": "Scribblenauts Unmasked",
@@ -7367,6 +7714,36 @@
             "game": "Shin Megami Tensei V",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Shin Megami Tensei V (CirnoWaifu).ogg",
             "regex": "^shin[^a-z0-9]*megami[^a-z0-9]*tensei[^a-z0-9]*v$|^shinmegamitenseiv$"
+        },
+        {
+            "game": "Ship Of Harkanian",
+            "file": "jingles/pc steam & multiplat/Natalie/Ship Of Harkanian (Natalie).ogg",
+            "regex": "^ship[^a-z0-9]*of[^a-z0-9]*harkanian$|^shipofharkanian$"
+        },
+        {
+            "game": "Shovel Knight - King of Cards",
+            "file": "jingles/pc steam & multiplat/CirnoWaifu/Shovel Knight - King of Cards (CirnoWaifu).ogg",
+            "regex": "^shovel[^a-z0-9]*knight[^a-z0-9]*king[^a-z0-9]*of[^a-z0-9]*cards$|^shovelknightkingofcards$"
+        },
+        {
+            "game": "Shovel Knight - Plague of Shadows",
+            "file": "jingles/pc steam & multiplat/CirnoWaifu/Shovel Knight - Plague of Shadows (CirnoWaifu).ogg",
+            "regex": "^shovel[^a-z0-9]*knight[^a-z0-9]*plague[^a-z0-9]*of[^a-z0-9]*shadows$|^shovelknightplagueofshadows$"
+        },
+        {
+            "game": "Shovel Knight - Shovel of Hope",
+            "file": "jingles/pc steam & multiplat/CirnoWaifu/Shovel Knight - Shovel of Hope (CirnoWaifu).ogg",
+            "regex": "^shovel[^a-z0-9]*knight[^a-z0-9]*shovel[^a-z0-9]*of[^a-z0-9]*hope$|^shovelknightshovelofhope$"
+        },
+        {
+            "game": "Shovel Knight - Showdown",
+            "file": "jingles/pc steam & multiplat/CirnoWaifu/Shovel Knight - Showdown (CirnoWaifu).ogg",
+            "regex": "^shovel[^a-z0-9]*knight[^a-z0-9]*showdown$|^shovelknightshowdown$"
+        },
+        {
+            "game": "Shovel Knight - Specter of Torment",
+            "file": "jingles/pc steam & multiplat/CirnoWaifu/Shovel Knight - Specter of Torment (CirnoWaifu).ogg",
+            "regex": "^shovel[^a-z0-9]*knight[^a-z0-9]*specter[^a-z0-9]*of[^a-z0-9]*torment$|^shovelknightspecteroftorment$"
         },
         {
             "game": "SIGNALIS",
@@ -7454,6 +7831,16 @@
             "regex": "^soul[^a-z0-9]*hackers[^a-z0-9]*2$|^soulhackers2$"
         },
         {
+            "game": "Spelunky",
+            "file": "jingles/pc steam & multiplat/Natalie/Spelunky (Natalie).ogg",
+            "regex": "^spelunky$|^spelunky$"
+        },
+        {
+            "game": "Spelunky 2",
+            "file": "jingles/pc steam & multiplat/Natalie/Spelunky 2 (Natalie).ogg",
+            "regex": "^spelunky[^a-z0-9]*2$|^spelunky2$"
+        },
+        {
             "game": "Sphinx and the Cursed Mummy",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Sphinx and the Cursed Mummy (CirnoWaifu).ogg",
             "regex": "^sphinx[^a-z0-9]*and[^a-z0-9]*the[^a-z0-9]*cursed[^a-z0-9]*mummy$|^sphinxandthecursedmummy$"
@@ -7462,6 +7849,11 @@
             "game": "Splinter Cell Chaos Theory",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/Splinter Cell Chaos Theory (BennyTheFirstHunter).ogg",
             "regex": "^splinter[^a-z0-9]*cell[^a-z0-9]*chaos[^a-z0-9]*theory$|^splintercellchaostheory$"
+        },
+        {
+            "game": "Stardew Valley",
+            "file": "jingles/pc steam & multiplat/Natalie/Stardew Valley (Natalie).ogg",
+            "regex": "^stardew[^a-z0-9]*valley$|^stardewvalley$"
         },
         {
             "game": "SteamWorld Heist",
@@ -7492,6 +7884,11 @@
             "game": "Suikoden I & II HD Remaster - Gate Rune & Dunan Unification Wars",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/Suikoden I & II HD Remaster - Gate Rune & Dunan Unification Wars (CirnoWaifu).ogg",
             "regex": "^suikoden[^a-z0-9]*i[^a-z0-9]*ii[^a-z0-9]*hd[^a-z0-9]*remaster[^a-z0-9]*gate[^a-z0-9]*rune[^a-z0-9]*dunan[^a-z0-9]*unification[^a-z0-9]*wars$|^suikodeniiihdremastergaterunedunanunificationwars$"
+        },
+        {
+            "game": "Super Auto Pets",
+            "file": "jingles/pc steam & multiplat/Natalie/Super Auto Pets (Natalie).ogg",
+            "regex": "^super[^a-z0-9]*auto[^a-z0-9]*pets$|^superautopets$"
         },
         {
             "game": "Super Holo Wars",
@@ -7527,6 +7924,16 @@
             "game": "Terraria",
             "file": "jingles/pc steam & multiplat/BennyTheFirstHunter/Terraria (BennyTheFirstHunter).ogg",
             "regex": "^terraria$|^terraria$"
+        },
+        {
+            "game": "Tetirs Effect",
+            "file": "jingles/pc steam & multiplat/Natalie/Tetirs Effect (Natalie).ogg",
+            "regex": "^tetirs[^a-z0-9]*effect$|^tetirseffect$"
+        },
+        {
+            "game": "Tetris Effect (Alt)",
+            "file": "jingles/pc steam & multiplat/Natalie/Tetris Effect (Alt) (Natalie).ogg",
+            "regex": "^tetris[^a-z0-9]*effect[^a-z0-9]*alt$|^tetriseffectalt$"
         },
         {
             "game": "The Binding of Isaac",
@@ -7602,6 +8009,16 @@
             "game": "TUNIC",
             "file": "jingles/pc steam & multiplat/CirnoWaifu/TUNIC (CirnoWaifu).ogg",
             "regex": "^tunic$|^tunic$"
+        },
+        {
+            "game": "UFO 50",
+            "file": "jingles/pc steam & multiplat/CirnoWaifu/UFO 50 (CirnoWaifu).ogg",
+            "regex": "^ufo[^a-z0-9]*50$|^ufo50$"
+        },
+        {
+            "game": "Ultimate Spider-Man",
+            "file": "jingles/pc steam & multiplat/CirnoWaifu/Ultimate Spider-Man (CirnoWaifu).ogg",
+            "regex": "^ultimate[^a-z0-9]*spider[^a-z0-9]*man$|^ultimatespiderman$"
         },
         {
             "game": "Undertale",
@@ -7737,6 +8154,11 @@
             "game": "Zenless Zone Zero (Gacha)",
             "file": "jingles/pc steam & multiplat/Fynaleth/Zenless Zone Zero (Gacha) (Fynaleth).ogg",
             "regex": "^zenless[^a-z0-9]*zone[^a-z0-9]*zero[^a-z0-9]*gacha$|^zenlesszonezerogacha$"
+        },
+        {
+            "game": "Öoo",
+            "file": "jingles/pc steam & multiplat/Natalie/Öoo (Natalie).ogg",
+            "regex": "^oo$|^oo$"
         }
     ],
     "pce": [
@@ -7920,6 +8342,21 @@
             "game": "Final Fantasy X",
             "file": "jingles/ps2/BennyTheFirstHunter/Final Fantasy X (BennyTheFirstHunter).ogg",
             "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*x$|^finalfantasyx$"
+        },
+        {
+            "game": "Final Fantasy X",
+            "file": "jingles/ps2/Natalie/Final Fantasy X (Natalie).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*x$|^finalfantasyx$"
+        },
+        {
+            "game": "Final Fantasy XI",
+            "file": "jingles/ps2/Natalie/Final Fantasy XI (Natalie).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*xi$|^finalfantasyxi$"
+        },
+        {
+            "game": "Final Fantasy XII",
+            "file": "jingles/ps2/Natalie/Final Fantasy XII (Natalie).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*xii$|^finalfantasyxii$"
         },
         {
             "game": "Ghosthunter",
@@ -9023,6 +9460,11 @@
             "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*ix$|^finalfantasyix$"
         },
         {
+            "game": "Final Fantasy IX",
+            "file": "jingles/psx/Natalie/Final Fantasy IX (Natalie).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*ix$|^finalfantasyix$"
+        },
+        {
             "game": "Final Fantasy Tactics",
             "file": "jingles/psx/flapperultra/Final Fantasy Tactics (flapperultra).ogg",
             "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*tactics$|^finalfantasytactics$"
@@ -9033,8 +9475,18 @@
             "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*vii$|^finalfantasyvii$"
         },
         {
+            "game": "Final Fantasy VII",
+            "file": "jingles/psx/Natalie/Final Fantasy VII (Natalie).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*vii$|^finalfantasyvii$"
+        },
+        {
             "game": "Final Fantasy VIII",
             "file": "jingles/psx/flapperultra/Final Fantasy VIII (flapperultra).ogg",
+            "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*viii$|^finalfantasyviii$"
+        },
+        {
+            "game": "Final Fantasy VIII",
+            "file": "jingles/psx/Natalie/Final Fantasy VIII (Natalie).ogg",
             "regex": "^final[^a-z0-9]*fantasy[^a-z0-9]*viii$|^finalfantasyviii$"
         },
         {
@@ -10197,6 +10649,11 @@
             "regex": "^super[^a-z0-9]*mario[^a-z0-9]*kart$|^supermariokart$"
         },
         {
+            "game": "Super Mario Kart",
+            "file": "jingles/snes/Natalie/Super Mario Kart (Natalie).ogg",
+            "regex": "^super[^a-z0-9]*mario[^a-z0-9]*kart$|^supermariokart$"
+        },
+        {
             "game": "Super Mario RPG",
             "file": "jingles/snes/RetroWave64/Super Mario RPG (RetroWave64).ogg",
             "regex": "^super[^a-z0-9]*mario[^a-z0-9]*rpg$|^supermariorpg$"
@@ -10229,6 +10686,11 @@
         {
             "game": "Super Metroid",
             "file": "jingles/snes/flapperultra/Super Metroid (flapperultra).ogg",
+            "regex": "^super[^a-z0-9]*metroid$|^supermetroid$"
+        },
+        {
+            "game": "Super Metroid",
+            "file": "jingles/snes/Natalie/Super Metroid (Natalie).ogg",
             "regex": "^super[^a-z0-9]*metroid$|^supermetroid$"
         },
         {
@@ -10689,6 +11151,11 @@
             "regex": "^super[^a-z0-9]*smash[^a-z0-9]*bros$|^supersmashbros$"
         },
         {
+            "game": "Tetris 99",
+            "file": "jingles/switch/Natalie/Tetris 99 (Natalie).ogg",
+            "regex": "^tetris[^a-z0-9]*99$|^tetris99$"
+        },
+        {
             "game": "The Legend of Zelda - Breath of the Wild",
             "file": "jingles/switch/flapperultra/The Legend of Zelda - Breath of the Wild (flapperultra).ogg",
             "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*breath[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*wild$|^thelegendofzeldabreathofthewild$"
@@ -10739,6 +11206,11 @@
             "regex": "^the[^a-z0-9]*legend[^a-z0-9]*of[^a-z0-9]*zelda[^a-z0-9]*tears[^a-z0-9]*of[^a-z0-9]*the[^a-z0-9]*kingdom$|^thelegendofzeldatearsofthekingdom$"
         },
         {
+            "game": "theatrhythm final bar line",
+            "file": "jingles/switch/Natalie/theatrhythm final bar line (Natalie).ogg",
+            "regex": "^theatrhythm[^a-z0-9]*final[^a-z0-9]*bar[^a-z0-9]*line$|^theatrhythmfinalbarline$"
+        },
+        {
             "game": "Tomodachi Life - Living the Dream",
             "file": "jingles/switch/CirnoWaifu/Tomodachi Life - Living the Dream (CirnoWaifu).ogg",
             "regex": "^tomodachi[^a-z0-9]*life[^a-z0-9]*living[^a-z0-9]*the[^a-z0-9]*dream$|^tomodachilifelivingthedream$"
@@ -10779,8 +11251,18 @@
             "regex": "^xenoblade[^a-z0-9]*chronicles[^a-z0-9]*2$|^xenobladechronicles2$"
         },
         {
+            "game": "Xenoblade Chronicles 2",
+            "file": "jingles/switch/Natalie/Xenoblade Chronicles 2 (Natalie).ogg",
+            "regex": "^xenoblade[^a-z0-9]*chronicles[^a-z0-9]*2$|^xenobladechronicles2$"
+        },
+        {
             "game": "Xenoblade Chronicles 3",
             "file": "jingles/switch/flapperultra/Xenoblade Chronicles 3 (flapperultra).ogg",
+            "regex": "^xenoblade[^a-z0-9]*chronicles[^a-z0-9]*3$|^xenobladechronicles3$"
+        },
+        {
+            "game": "Xenoblade Chronicles 3",
+            "file": "jingles/switch/Natalie/Xenoblade Chronicles 3 (Natalie).ogg",
             "regex": "^xenoblade[^a-z0-9]*chronicles[^a-z0-9]*3$|^xenobladechronicles3$"
         },
         {
@@ -11113,6 +11595,16 @@
             "regex": "^mega[^a-z0-9]*man[^a-z0-9]*9[^a-z0-9]*10[^a-z0-9]*alt$|^megaman910alt$"
         },
         {
+            "game": "Metroid Other M",
+            "file": "jingles/wii/Natalie/Metroid Other M (Natalie).ogg",
+            "regex": "^metroid[^a-z0-9]*other[^a-z0-9]*m$|^metroidotherm$"
+        },
+        {
+            "game": "Metroid Prime Trilogy",
+            "file": "jingles/wii/Natalie/Metroid Prime Trilogy (Natalie).ogg",
+            "regex": "^metroid[^a-z0-9]*prime[^a-z0-9]*trilogy$|^metroidprimetrilogy$"
+        },
+        {
             "game": "New Super Mario Bros Wii",
             "file": "jingles/wii/RetroWave64/New Super Mario Bros Wii (RetroWave64).ogg",
             "regex": "^new[^a-z0-9]*super[^a-z0-9]*mario[^a-z0-9]*bros[^a-z0-9]*wii$|^newsupermariobroswii$"
@@ -11220,6 +11712,11 @@
         {
             "game": "Xenoblade Chronicles",
             "file": "jingles/wii/CirnoWaifu/Xenoblade Chronicles (CirnoWaifu).ogg",
+            "regex": "^xenoblade[^a-z0-9]*chronicles$|^xenobladechronicles$"
+        },
+        {
+            "game": "Xenoblade Chronicles",
+            "file": "jingles/wii/Natalie/Xenoblade Chronicles (Natalie).ogg",
             "regex": "^xenoblade[^a-z0-9]*chronicles$|^xenobladechronicles$"
         }
     ],
