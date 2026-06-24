@@ -37,3 +37,8 @@ If you believe someone has stolen your jingles and uploaded them to this reposit
 - Somecallmesean
 - Natalie
 - DJ Ki-sikil
+- alive-dead
+- PhoenixPat
+- Torchiclsla
+
+
