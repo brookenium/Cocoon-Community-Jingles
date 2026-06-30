@@ -11251,6 +11251,11 @@
             "regex": "^part[^a-z0-9]*time[^a-z0-9]*ufo$|^parttimeufo$"
         },
         {
+            "game": "PICROSS S+",
+            "file": "jingles/switch/Viator/PICROSS S+ (Viator).ogg",
+            "regex": "^picross[^a-z0-9]*s$|^picrosss$"
+        },
+        {
             "game": "Pikmin 4",
             "file": "jingles/switch/flapperultra/Pikmin 4 (flapperultra).ogg",
             "regex": "^pikmin[^a-z0-9]*4$|^pikmin4$"
