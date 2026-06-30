@@ -8509,6 +8509,11 @@
             "regex": "^disgaea[^a-z0-9]*2[^a-z0-9]*cursed[^a-z0-9]*memories$|^disgaea2cursedmemories$"
         },
         {
+            "game": "Dragon Ball Z - Infinite World",
+            "file": "jingles/ps2/Somecallmesean/Dragon Ball Z - Infinite World (somecallmesean).ogg",
+            "regex": "^dragon[^a-z0-9]*ball[^a-z0-9]*z[^a-z0-9]*infinite[^a-z0-9]*world$|^dragonballzinfiniteworld$"
+        },
+        {
             "game": "Dragon Ball Z Budokai 3",
             "file": "jingles/ps2/RetroWave64/Dragon Ball Z Budokai 3 (RetroWave64).ogg",
             "regex": "^dragon[^a-z0-9]*ball[^a-z0-9]*z[^a-z0-9]*budokai[^a-z0-9]*3$|^dragonballzbudokai3$"
