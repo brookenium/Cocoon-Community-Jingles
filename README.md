@@ -1,5 +1,5 @@
 # Cocoon Community jingles Pack #
-*Ethically sourced from the cocoon community*
+*Ethically sourced from the Cocoon community.*
 
 # About
 This jingle pack features a huge collection of jingles from creators in the Cocoon community (over 1,700 and counting!). Unlike certain other jingle repositories, all these jingles have been contributed with full permission and credit to their original creators and providers. We feel it's important to credit the original providers of these jingles, as every creator has their own style. For that reason, we have credited each creator's name on each jingle to help you choose the style you like!
