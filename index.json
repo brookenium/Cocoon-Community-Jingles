@@ -12480,6 +12480,11 @@
             "regex": "^sonic[^a-z0-9]*unleashed$|^sonicunleashed$"
         },
         {
+            "game": "Sonic Unleashed",
+            "file": "jingles/wii/somecallmesean/Sonic Unleashed (somecallmesean).ogg",
+            "regex": "^sonic[^a-z0-9]*unleashed$|^sonicunleashed$"
+        },
+        {
             "game": "Super Mario Galaxy",
             "file": "jingles/wii/RetroWave64/Super Mario Galaxy (RetroWave64).ogg",
             "regex": "^super[^a-z0-9]*mario[^a-z0-9]*galaxy$|^supermariogalaxy$"
