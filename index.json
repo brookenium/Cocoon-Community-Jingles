@@ -12922,6 +12922,11 @@
             "regex": "^sonic[^a-z0-9]*colors$|^soniccolors$"
         },
         {
+            "game": "Sonic Colors",
+            "file": "jingles/wii/somecallmesean/Sonic Colors (somecallmesean).ogg",
+            "regex": "^sonic[^a-z0-9]*colors$|^soniccolors$"
+        },
+        {
             "game": "Sonic Unleashed",
             "file": "jingles/wii/RetroWave64/Sonic Unleashed (RetroWave64).ogg",
             "regex": "^sonic[^a-z0-9]*unleashed$|^sonicunleashed$"
